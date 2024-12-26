@@ -39,7 +39,7 @@
 		"tooltip": false
 	},
 	"custom/chrome": {
-		"format": "<span color='#cc0000'></span>",
+		"format": "<span color='#d7b4f3'></span>",
 		"on-click": "google-chrome-stable",
 		"tooltip": false
 	},        

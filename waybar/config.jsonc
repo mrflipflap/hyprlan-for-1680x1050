@@ -5,7 +5,7 @@
 	"margin-top": 10,
 
 	"modules-left": ["custom/menu", "hyprland/workspaces", "hyprland/window"],
-	"modules-center": ["custom/kitty", "custom/thunar"],
+	"modules-center": ["custom/kitty", "custom/chrome", "custom/thunar"],
 	"modules-right": ["tray", "hyprland/language", "pulseaudio", "clock", "custom/power"],
 
 	"custom/menu": {
@@ -38,6 +38,11 @@
 		"on-click": "kitty",
 		"tooltip": false
 	},
+	"custom/chrome": {
+		"format": "<span color='#cc0000'></span>",
+		"on-click": "google-chrome-stable",
+		"tooltip": false
+	},        
 
 	"custom/thunar": {
 		"format": "<span color='#89b4fa'>󰉋</span>",

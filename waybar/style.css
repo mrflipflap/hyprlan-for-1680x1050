@@ -82,9 +82,21 @@ button:hover {
 	color: @fg;
 	background-color: @bg2;
 	border: none;
-	border-radius: 20 0 0 20;
+	border-radius: 20 0 0 20;	
 }
 #custom-kitty:hover {
+	color: @yellow;	
+}
+
+#custom-chrome {
+	padding: 2 10 2 10;
+	margin: 5 0 5 0;
+	color: @fg;
+	background-color: @bg2;
+	border: none;
+	border-radius: 0;	
+}
+#custom-chrome:hover {
 	color: @yellow;
 }
 

@@ -21,7 +21,7 @@ get_icon() {
         50n) icon="";;
         *) icon="";
 
-        # Icons for Font Awesome 5 Pro
+        # Icons for Font Awesome 6 Pro
         #01d) icon="";;
         #01n) icon="";;
         #02d) icon="";;
@@ -42,7 +42,7 @@ get_icon() {
 }
 
 KEY="e434b5435a979de6e155570590bee89b"
-CITY="Novosibirsk"
+CITY="Dubno"
 UNITS="metric"
 SYMBOL="°"
 
